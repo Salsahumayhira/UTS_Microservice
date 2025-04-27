@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS bioskop_movie;
+CREATE DATABASE IF NOT EXISTS bioskop_booking;
+CREATE DATABASE IF NOT EXISTS bioskop_customer;
